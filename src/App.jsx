@@ -5,7 +5,7 @@ function App() {
     <div className="page">
       {/* NAVBAR */}
       <header className="navbar">
-        <div className="logo">Ridhi Highway Works</div>
+        <div className="logo">Kanika Highway Works</div>
         <nav className="nav-links">
           <a href="#services">Services</a>
           <a href="#process">Process</a>
@@ -183,7 +183,7 @@ function App() {
               </p>
 
               <ul>
-                <li>Email: info@ridhi-highways.in</li>
+                <li>Email: info@Kanika-highways.in</li>
                 <li>Phone: +91-98765-43210</li>
                 <li>Office Hours: Mon-Sat (9am – 6pm)</li>
               </ul>
@@ -209,8 +209,8 @@ function App() {
       {/* FOOTER */}
       <footer className="footer">
         <p>
-          © {new Date().getFullYear()} Ridhi Highway Works — Road Construction &
-          Maintenance
+          © {new Date().getFullYear()} Kanika Highway Works — Road Construction
+          & Maintenance
         </p>
       </footer>
     </div>
